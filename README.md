@@ -23,8 +23,5 @@ documented evidence supporting my professional and scholarly work.
 - **Promotion Evidence:** [Academic contributions and service](promotion/)
 - **Curriculum Vitae:** [Download CV (PDF)](assets/Thavavel_2021.pdf)
 
-## Contact
-Department of Computer Science  
-College of Computer Science and Engineering  
-Prince Sattam bin Abdulaziz University
+
 
